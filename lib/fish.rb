@@ -1,3 +1,2 @@
-class Fish
-  # code goes here
+class Fish < Dog
 end
